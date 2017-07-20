@@ -1,13 +1,13 @@
 /**
  * Created by Darpan Shah Jul 20, 2017
  */ 
-package com.parth.mate.che.mavo;
+package com.ds.utility;
 
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.concurrent.SynchronousQueue;
 
-import com.parth.mate.che.service.Dictionary;
+import com.ds.utility.service.Dictionary;
 
 /**
  * @author DARPAN

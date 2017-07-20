@@ -1,7 +1,7 @@
 /**
  * Created by Darpan Shah Jul 20, 2017
  */ 
-package com.parth.mate.che.service;
+package com.ds.utility.service;
 
 /**
  * @author DARPAN
