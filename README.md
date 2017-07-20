@@ -4,13 +4,13 @@ Finds all correct words from matrix of strings.
 - Given an input of a list of strings representing a matrix of characters find all the valid words in that matrix. A valid words is a vertical or horizontal sequence of characters that are present in a dictionary   
 
 The dictionary is defined by the following interface:
-   public interface Dictionary {
-  	   boolean isValidWord(String word);
-   }
-
+		
+		public interface Dictionary {
+	  	   boolean isValidWord(String word);
+	    }	
 
 # Sample Input
-   private static final String[] DEFAULT_PUZZLE = new String[] {
+	   private static final String[] DEFAULT_PUZZLE = new String[] {
 
     	"akjbvaijdsbv_d_dbv",
 
